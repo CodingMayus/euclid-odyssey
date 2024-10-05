@@ -1,4 +1,4 @@
-#Euclid's Odyssey
+##Euclid's Odyssey
 
 Challenge:  Detecting Seismic Activity
 
