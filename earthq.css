@@ -1,0 +1,85 @@
+h1 {
+    font-family: calibri;
+    font-weight:normal;
+    margin:none;
+}
+
+#space {
+    background-color:#541c54;
+    background-image: linear-gradient(purple, rgb(45, 24, 44));
+    height:80px;
+    margin:none;
+}
+
+#space{
+    display:flex;
+    align-items:center;
+    
+}
+
+#homebutton {
+    text-decoration:none;
+    color: white;
+    font-family: arial;
+    font-size: 23px;
+    position:relative;
+    left: 20px;
+}
+
+.pagination a {
+    text-decoration:none;
+    color:white;
+    font-size:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position:relative;
+    font-weight:100;
+    left:1000px;
+    text-align:right;
+}
+
+
+#goal {
+    font-family:arial;
+    font-size:20px;
+    position:relative;
+    left: 20px;
+    color:white;
+}
+
+#goaltext {
+    position:relative;
+    left: 20px;
+    font-family:arial;
+    line-height:2.0;
+    width:800px;
+}
+
+
+body{
+    background-image: url(images/star.jpg);
+}
+
+p{
+    color:white;
+}
+
+#emptyspace {
+    position:relative;
+    text-align:center;
+    padding: 9px 15px;
+}
+
+#nav{
+    position:relative;
+    text-align:center;
+    font-family:arial;
+    color:white;
+}
+
+#moon{
+    position:relative;
+    left:20px;
+    height:160px;
+    width:160px;
+    padding: 9px 15px;
+}
